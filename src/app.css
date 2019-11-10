@@ -1,0 +1,52 @@
+.header {
+  display: flex;
+  justify-content: flex-end;
+}
+.admin {
+  padding: 5px;
+}
+.loginForm {
+  display: inline;
+  margin: 2px;
+}
+.failLogin {
+  color: red;
+  font-size: small;
+}
+.sort {
+  font-size: small;
+  margin: 10px;
+}
+.listItem {
+  border: outset;
+  padding: 2px;
+  margin: 5px;
+}
+.username {
+  font-weight: bold;
+}
+.email {
+  font-style: italic;
+  font-size: small;
+}
+.text {
+  font-size: large;
+}
+.edited {
+  font-size: small;
+  font-style: italic;
+}
+.status {
+  font-size: medium;
+}
+.performed {
+  font-size: small;
+  display: inline-block;
+  text-align: right;
+}
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
